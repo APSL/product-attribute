@@ -88,6 +88,10 @@ Contributors
 
    -  Sylvain LE GAL
 
+-  `APSL-Nagarro <https://apsl.tech>`__:
+
+   -  Antoni Marroig <amarroig@apsl.net>
+
 Maintainers
 -----------
 

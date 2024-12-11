@@ -5,3 +5,5 @@
   - David Beal
 - Grap
   - Sylvain LE GAL
+- [APSL-Nagarro](<https://apsl.tech>):
+  - Antoni Marroig \<<amarroig@apsl.net>\>
